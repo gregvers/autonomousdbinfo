@@ -1,0 +1,7 @@
+{
+  "dbuser":"ADMIN",
+  "dbpwd":"XXXXXX",
+  "dbsvc":"oradb_high",
+  "dbwallet_bucket":"dbwallets",
+  "dbwallet_object":"Wallet_oradb.zip"
+}
